@@ -1885,7 +1885,7 @@ const List<Country> countries = [
     code: "UY",
     dialCode: "598",
     minLength: 8,
-    maxLength: 11,
+    maxLength: 8,
   ),
   Country(
     name: "Uzbekistan",
