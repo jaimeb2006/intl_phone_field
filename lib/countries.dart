@@ -8,7 +8,7 @@ const List<Country> countries = [
     maxLength: 12,
   ),
   Country(
-    name: "Bolivia, Plurinational State of bolivia",
+    name: "Bolivia",
     flag: "🇧🇴",
     code: "BO",
     dialCode: "591",
@@ -136,7 +136,7 @@ const List<Country> countries = [
     maxLength: 8,
   ),
   Country(
-    name: "Venezuela, Bolivarian Republic of Venezuela",
+    name: "Venezuela",
     flag: "🇻🇪",
     code: "VE",
     dialCode: "58",
