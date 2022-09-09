@@ -16,6 +16,14 @@ const List<Country> countries = [
     maxLength: 8,
   ),
   Country(
+    name: "Brazil",
+    flag: "🇧🇷",
+    code: "BR",
+    dialCode: "55",
+    minLength: 11,
+    maxLength: 11,
+  ),
+  Country(
     name: "Chile",
     flag: "🇨🇱",
     code: "CL",
@@ -126,6 +134,14 @@ const List<Country> countries = [
     dialCode: "34",
     minLength: 9,
     maxLength: 9,
+  ),
+  Country(
+    name: "United States",
+    flag: "🇺🇸",
+    code: "US",
+    dialCode: "1",
+    minLength: 10,
+    maxLength: 10,
   ),
   Country(
     name: "Uruguay",
